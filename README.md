@@ -1,6 +1,6 @@
 # affirmer
 This is an affirmation app. Literally just to affirm.
-Current features:
+<p>Current features:</p>
 - Up to 5 affirmations to be tracked. Add and reorder affirmations option available.
 - Manual tap mode — tap each affirmation to count reps
 - Auto loop mode — affirmations cycle automatically at user's chosen speed and target, capped at 3 sessions per day and up to 1,000 reps per session. Circular progress ring and breathing animation (for breathwork) while the auto loop is running.
