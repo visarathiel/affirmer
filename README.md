@@ -10,4 +10,4 @@ Current features:
 - Pin your favourite affirmations to the top
 - Daily streak tracker with 🔥 badge
 - Motivational messages on session completion
-This version is stored locally.
+<p>This version is stored locally.</p>
